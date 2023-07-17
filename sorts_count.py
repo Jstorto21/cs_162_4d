@@ -19,7 +19,7 @@ def bubble_count(a_list):
     return print(comparisons, exchanges)
 
 
-def insertion_sort(a_list):
+def insertion_count(a_list):
     comparisons = 0
     exchanges = 0
 
